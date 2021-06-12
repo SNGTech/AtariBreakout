@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AtariBreakout:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AtariBreakout_jar</output-path>
+    <root id="archive" name="AtariBreakout.jar">
+      <element id="module-output" name="AtariBreakout" />
+    </root>
+  </artifact>
+</component>
